@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 940" font-family="'PingFang SC','Noto Sans SC','Microsoft YaHei',sans-serif">
+  <rect width="1400" height="940" fill="#FFFFFF"/>
+
+  <text x="40" y="52" font-size="26" font-weight="700" fill="#1F3A5F">概率是一种测量 · 全文思路图</text>
+  <text x="40" y="82" font-size="14" fill="#5C7392">一门称重的手艺，一条讲运气的读法 —— 三幕十六节，汇于 1933 年的公理</text>
+
+  <!-- Act headers -->
+  <rect x="40" y="110" width="400" height="44" rx="8" fill="#2354E6"/>
+  <text x="64" y="138" font-size="18" font-weight="700" fill="#FFFFFF">一、概率是称重</text>
+  <rect x="500" y="110" width="400" height="44" rx="8" fill="#2354E6"/>
+  <text x="524" y="138" font-size="18" font-weight="700" fill="#FFFFFF">二、秤的规则与边界</text>
+  <rect x="960" y="110" width="400" height="44" rx="8" fill="#2354E6"/>
+  <text x="984" y="138" font-size="18" font-weight="700" fill="#FFFFFF">三、时间与你的单条命</text>
+
+  <!-- Act 1 cards -->
+  <g>
+    <rect x="40" y="170" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="41" y="171" width="6" height="84" fill="#2354E6"/>
+    <text x="64" y="204" font-size="16" font-weight="700" fill="#1F3A5F">扔牙签量 π</text>
+    <text x="64" y="228" font-size="13" fill="#5C7392">算概率 = 量一块面积</text>
+    <text x="64" y="248" font-size="13" fill="#2354E6">撒点采样 · 抽卡掉宝</text>
+
+    <rect x="40" y="266" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="41" y="267" width="6" height="84" fill="#2354E6"/>
+    <text x="64" y="300" font-size="16" font-weight="700" fill="#1F3A5F">1654 年分赌注</text>
+    <text x="64" y="324" font-size="13" fill="#5C7392">期望 = 所有可能的重心</text>
+    <text x="64" y="344" font-size="13" fill="#2354E6">期权 vesting · 腰斩结算</text>
+
+    <rect x="40" y="362" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="41" y="363" width="6" height="84" fill="#2354E6"/>
+    <text x="64" y="396" font-size="16" font-weight="700" fill="#1F3A5F">掷硬币</text>
+    <text x="64" y="420" font-size="13" fill="#5C7392">概率只认「类」，单条结果恒为零</text>
+    <text x="64" y="440" font-size="13" fill="#2354E6">巧合必然有一个</text>
+  </g>
+
+  <!-- Act 2 cards -->
+  <g>
+    <rect x="500" y="170" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="501" y="171" width="6" height="84" fill="#2354E6"/>
+    <text x="524" y="204" font-size="16" font-weight="700" fill="#1F3A5F">三条规则 → 可数可加</text>
+    <text x="524" y="228" font-size="13" fill="#5C7392">换来大数定律与连续世界</text>
+    <text x="524" y="248" font-size="13" fill="#2354E6">民调误差 ±3% = 1/√1000</text>
+
+    <rect x="500" y="266" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="501" y="267" width="6" height="84" fill="#2354E6"/>
+    <text x="524" y="300" font-size="16" font-weight="700" fill="#1F3A5F">弱大数 vs 强大数</text>
+    <text x="524" y="324" font-size="13" fill="#5C7392">依概率收敛 / 几乎必然收敛</text>
+    <text x="524" y="344" font-size="13" fill="#2354E6">精度翻倍，人数翻四倍</text>
+
+    <rect x="500" y="362" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="501" y="363" width="6" height="84" fill="#2354E6"/>
+    <text x="524" y="396" font-size="16" font-weight="700" fill="#1F3A5F">康托尘</text>
+    <text x="524" y="420" font-size="13" fill="#5C7392">点数不可数，重量为零</text>
+    <text x="524" y="440" font-size="13" fill="#2354E6">数量 ≠ 分量</text>
+
+    <rect x="500" y="458" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="501" y="459" width="6" height="84" fill="#2354E6"/>
+    <text x="524" y="492" font-size="16" font-weight="700" fill="#1F3A5F">分班游戏</text>
+    <text x="524" y="516" font-size="13" fill="#5C7392">有的问题不许问 → σ 代数</text>
+    <text x="524" y="536" font-size="13" fill="#2354E6">「必涨」先问能不能上秤</text>
+
+    <rect x="500" y="554" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="501" y="555" width="6" height="84" fill="#2354E6"/>
+    <text x="524" y="588" font-size="16" font-weight="700" fill="#1F3A5F">换一套公理</text>
+    <text x="524" y="612" font-size="13" fill="#5C7392">可问域是公理立场</text>
+    <text x="524" y="632" font-size="13" fill="#2354E6">发票能不能报销看制度</text>
+
+    <rect x="500" y="650" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="501" y="651" width="6" height="84" fill="#2354E6"/>
+    <text x="524" y="684" font-size="16" font-weight="700" fill="#1F3A5F">三把尺子 · 柯西肥尾</text>
+    <text x="524" y="708" font-size="13" fill="#5C7392">随机不自带重量；期望不是免费的</text>
+    <text x="524" y="728" font-size="13" fill="#2354E6">平均工资两把尺 · 人均财富</text>
+  </g>
+
+  <!-- Act 3 cards -->
+  <g>
+    <rect x="960" y="170" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="961" y="171" width="6" height="84" fill="#2354E6"/>
+    <text x="984" y="204" font-size="16" font-weight="700" fill="#1F3A5F">必赢的方法 → 鞅与停时</text>
+    <text x="984" y="228" font-size="13" fill="#5C7392">期望零怎么排队都是零；收手只准用过去</text>
+    <text x="984" y="248" font-size="13" fill="#2354E6">补仓摊成本 · 以贷养贷 · 止损单</text>
+
+    <rect x="960" y="266" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="961" y="267" width="6" height="84" fill="#2354E6"/>
+    <text x="984" y="300" font-size="16" font-weight="700" fill="#1F3A5F">三扇门</text>
+    <text x="984" y="324" font-size="13" fill="#5C7392">重量按贴合度重分 = 贝叶斯</text>
+    <text x="984" y="344" font-size="13" fill="#2354E6">查出阳性 ≠ 有病：8%</text>
+
+    <rect x="960" y="362" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="961" y="363" width="6" height="84" fill="#2354E6"/>
+    <text x="984" y="396" font-size="16" font-weight="700" fill="#1F3A5F">彼得堡 → 凯利</text>
+    <text x="984" y="420" font-size="13" fill="#5C7392">优化对数期望，f = p − q</text>
+    <text x="984" y="440" font-size="13" fill="#2354E6">梭哈一次出局 · 别满仓</text>
+
+    <rect x="960" y="458" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="961" y="459" width="6" height="84" fill="#2354E6"/>
+    <text x="984" y="492" font-size="16" font-weight="700" fill="#1F3A5F">一万个你</text>
+    <text x="984" y="516" font-size="13" fill="#5C7392">算术平均 ≠ 几何平均 · 遍历定理</text>
+    <text x="984" y="536" font-size="13" fill="#2354E6">基金「平均年化」≠ 你的复利</text>
+
+    <rect x="960" y="554" width="400" height="86" rx="8" fill="#EAF2FD" stroke="#C7D9F5"/>
+    <rect x="961" y="555" width="6" height="84" fill="#2354E6"/>
+    <text x="984" y="588" font-size="16" font-weight="700" fill="#1F3A5F">布朗运动</text>
+    <text x="984" y="612" font-size="13" fill="#5C7392">处处不可微；光滑是零测的类</text>
+    <text x="984" y="632" font-size="13" fill="#2354E6">K 线上量不到斜率</text>
+  </g>
+
+  <!-- Converging lines -->
+  <g stroke="#2354E6" stroke-width="2" fill="none">
+    <line x1="240" y1="448" x2="240" y2="780"/>
+    <line x1="1160" y1="650" x2="1160" y2="780"/>
+    <line x1="240" y1="780" x2="1160" y2="780"/>
+    <line x1="700" y1="736" x2="700" y2="780"/>
+    <line x1="700" y1="780" x2="700" y2="806"/>
+  </g>
+  <polygon points="700,810 693,798 707,798" fill="#2354E6"/>
+
+  <!-- Convergence band -->
+  <rect x="40" y="810" width="1320" height="110" rx="10" fill="#2354E6"/>
+  <text x="700" y="850" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">1933 · 柯尔莫哥洛夫：概率 = 一种总重量为 1 的测度</text>
+  <text x="700" y="880" font-size="14" fill="#FFFFFF" text-anchor="middle">读大小、可测、积分 —— 测度论　｜　读频率、期望、收敛 —— 概率论　｜　一体两面</text>
+  <text x="700" y="904" font-size="12" fill="#B9CCF2" text-anchor="middle">暗线：重量（面积 / 长度）— 清单（σ 代数）— 尺子（测度的选择）— 对账（收敛定理）</text>
+</svg>
